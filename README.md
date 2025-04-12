@@ -1,6 +1,6 @@
 # 🔍 Breast Cancer Data Clustering with K-Means Algorithm
 
-![](images/breast_cancer_clustering_cover.png) <!-- Image: optional cover image showing clustered data -->
+![](https://github.com/Jamestown34/Breast-Cancer-Unsupervised-learning-Prediction/blob/main/BreastCancer/Screenshot%20(46).png) <!-- Image: optional cover image showing clustered data -->
 
 ## 🧠 Project Overview
 
@@ -29,7 +29,7 @@ Breast cancer remains one of the most prevalent and life-threatening diseases af
 - Features: 30 numeric features (e.g., mean radius, texture, perimeter, area, smoothness)
 - Target: Diagnosis (used *only for evaluation*)
 
-![](images/breast_cancer_features.png) <!-- Optional image showing correlation heatmap or data sample -->
+![](https://github.com/Jamestown34/Breast-Cancer-Unsupervised-learning-Prediction/blob/main/BreastCancer/Screenshot%20(48).png) <!-- Optional image showing correlation heatmap or data sample -->
 
 ---
 
@@ -63,7 +63,7 @@ Breast cancer remains one of the most prevalent and life-threatening diseases af
    - Plotted PCA-reduced clusters to see separation
    - Used cluster centroids to understand feature influence
 
-![](images/breast_cancer_clusters.png) <!-- Cluster visualization plot -->
+![](https://github.com/Jamestown34/Breast-Cancer-Unsupervised-learning-Prediction/blob/main/BreastCancer/Screenshot%20(51).png) <!-- Cluster visualization plot -->
 
 ---
 
@@ -94,7 +94,10 @@ Such insights could:
 - 🧠 Combine clustering with **supervised learning** for hybrid models
 - 📈 Deploy findings in a medical data dashboard or visualization tool
 
+- ![](https://github.com/Jamestown34/Breast-Cancer-Unsupervised-learning-Prediction/blob/main/BreastCancer/Screenshot%20(53).png) <!-- Cluster visualization plot -->
+
 ---
+
 
 ## 🤝 Let's Connect
 
